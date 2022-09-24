@@ -1,4 +1,6 @@
-### Hi there 👋
+### Yo!
+
+I make things in both the physical and digital realm but my favorite thing to do is blend those two together.
 
 <!--
 **joe-scotto/joe-scotto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
